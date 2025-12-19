@@ -4,7 +4,7 @@
 
 This project demonstrates **end-to-end SQL-driven business analysis** on a retail / e-commerce transactional dataset. The objective is not only to write correct SQL queries, but to **answer real-world business questions**, derive insights, and make data-backed recommendations — exactly how a **Data Analyst operates in a production environment**.
 
-The project progresses from **core KPI analysis** to **advanced analytical case studies** using CTEs and window functions, with insights documented and version-controlled on GitHub.
+The project progresses from **core KPI analysis** to **advanced analytical case studies** using CTEs and window functions, with insights documented, a lightweight Power BI dashboard built on top of a SQL analytics layer, and version-controlled on GitHub.
 
 ---
 
