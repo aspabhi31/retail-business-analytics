@@ -96,7 +96,15 @@ Detailed insights and recommendations are documented in:
 ```
 
 ---
+## Power BI Dashboard Preview
 
+### Executive Overview
+![Executive Overview Dashboard](images/executive_overview.png)
+
+### Customer & Product Insights
+![Customer & Product Insights Dashboard](images/customer_product_insights.png)
+
+---
 
 ## Author
 
